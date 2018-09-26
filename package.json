@@ -1,0 +1,28 @@
+{
+  "name": "icp-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RioloGiuseppe/ipc-bus.git"
+  },
+  "author": {
+    "email": "riolo.giuseppe@gmail.com",
+    "name": "Giuseppe Riolo"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RioloGiuseppe/ipc-bus/issues"
+  },
+  "homepage": "https://github.com/RioloGiuseppe/ipc-bus#readme",
+  "devDependencies": {
+    "@types/node": "10.11.0"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
